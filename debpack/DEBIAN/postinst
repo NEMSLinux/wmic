@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/bin/pip3 install configparser
+pip3 install configparser
