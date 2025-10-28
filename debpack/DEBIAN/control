@@ -4,7 +4,7 @@ Priority: important
 Section: plugins
 Maintainer: NEMS Linux <nems@category5.tv>
 Architecture: all
-Version: 1.6.8
+Version: 1.6.102
 Provides: wmic
 Description: Windows Management Instrumentation Client for NEMS Linux
-Depends: python3, python3-natsort, python3-impacket, libnumber-format-perl
+Depends: python3|python, python3-natsort|python-natsort, python3-impacket|python-impacket, libnumber-format-perl
